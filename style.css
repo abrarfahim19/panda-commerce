@@ -1,0 +1,26 @@
+.container{
+    margin-bottom: 5%;
+
+}
+
+.cardiv{
+    background-color:#feeae9;
+    border-radius: 10px;
+}
+
+.buy-btn{
+        background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        padding: 9px 25px;
+        cursor: pointer;
+}
+
+.price {
+    color: #FF136F;
+}
+
+.car1,.car2, .car3{
+    padding-left: 5%;
+}

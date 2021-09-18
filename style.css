@@ -8,6 +8,10 @@
     border-radius: 10px;
 }
 
+.carousel-item{
+    padding: 20px 40px
+}
+
 .buy-btn{
         background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
         color: #fff;
@@ -23,4 +27,44 @@
 
 .car1,.car2, .car3{
     padding-left: 5%;
+}
+
+.cat1{
+    background-image: linear-gradient(to right, coral 0%, orange  100% );
+}
+
+.cat2{
+    background-image: linear-gradient(to right,  slateblue 0%, steelblue 100%);
+}
+
+.cat3{
+    background-image: linear-gradient(to right,  tomato 0%, hotpink 100% )
+}
+
+.cat1, .cat2, .cat3 h1{
+    color:white
+}
+
+.cat1, .cat2, .cat3{
+    border-radius: 10px;
+}
+
+.catagory img{
+    padding: 10px 20px;
+    width:40%;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+    
+}
+
+#subscribe{
+    height: 300px;
+}
+
+footer{
+    text-align: center
 }
